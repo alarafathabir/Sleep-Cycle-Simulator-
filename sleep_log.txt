@@ -1,0 +1,56 @@
+Date: 2025-10-04
+Sleep Duration: -15 hours 0 minutes
+Quality: Bad Sleep
+-----------------
+Date: 2025-10-04
+Sleep Duration: -18 hours 0 minutes
+Quality: Bad Sleep
+-----------------
+Date: 2025-10-04
+Sleep Duration: -18 hours 0 minutes
+Quality: Bad Sleep
+-----------------
+Date: 2025-10-04
+Sleep Duration: -18 hours 0 minutes
+Quality: Bad Sleep
+-----------------
+Date: 2025-10-04
+Sleep Duration: 17 hours 0 minutes
+Quality: Bad Sleep
+-----------------
+Date: 2025-10-04
+Sleep Duration: -6 hours 0 minutes
+Quality: Bad Sleep
+-----------------
+Date: 2025-10-04
+Sleep Duration: -12 hours 0 minutes
+Quality: Bad Sleep
+-----------------
+Date: 2025-10-04
+Sleep Duration: -12 hours 0 minutes
+Quality: Bad Sleep
+-----------------
+Date: 2025-10-04
+Sleep Duration: 0 hours 0 minutes
+Quality: Bad Sleep
+-----------------
+Date: 2025-10-04
+Sleep Duration: -12 hours 0 minutes
+Quality: Bad Sleep
+-----------------
+Date: 2025-10-04
+Sleep Duration: -12 hours 0 minutes
+Quality: Bad Sleep
+-----------------
+Date: 2025-10-04
+Sleep Duration: -16 hours 0 minutes
+Quality: Bad Sleep
+-----------------
+Date: 2025-10-04
+Sleep Duration: 8 hours 0 minutes
+Quality: Good Sleep
+-----------------
+Date: 2025-10-04
+Sleep Duration: -16 hours 0 minutes
+Quality: Bad Sleep
+-----------------
